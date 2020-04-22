@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="596" height="280" viewBox="0 0 596 280">
+  <g id="Eos_Logo" data-name="Eos Logo" transform="translate(-393 -52)">
+    <path id="Intersection_1" data-name="Intersection 1" d="M2783.987-532h0Zm0,0H2454.012A168.976,168.976,0,0,1,2452-558a168.5,168.5,0,0,1,2.871-31h328.256A168.508,168.508,0,0,1,2786-558a168.816,168.816,0,0,1-2.012,26Z" transform="translate(-1931 793)" fill="#2c0f2b"/>
+    <rect id="Rectangle_5" data-name="Rectangle 5" width="393" height="12" rx="6" transform="translate(492 251)" fill="#2c0f2b"/>
+    <path id="Intersection_2" data-name="Intersection 2" d="M2454.688-588q.332-1.833.705-3.657A166.206,166.206,0,0,1,2465.124-623q2.578-6.1,5.651-12h296.452q3.067,5.89,5.65,12a166.187,166.187,0,0,1,9.731,31.347q.373,1.822.705,3.657Z" transform="translate(-1931 793)" fill="#810234"/>
+    <path id="Intersection_3" data-name="Intersection 3" d="M2470.258-634a167.245,167.245,0,0,1,10.264-17.372,168.176,168.176,0,0,1,20.392-24.715q2.509-2.509,5.126-4.913h225.921q2.616,2.4,5.126,4.913a168.208,168.208,0,0,1,20.392,24.715A167.194,167.194,0,0,1,2767.743-634Z" transform="translate(-1931 793)" fill="#fc7d48"/>
+    <path id="Intersection_4" data-name="Intersection 4" d="M2504.96-678a168.2,168.2,0,0,1,20.669-16.48,167.1,167.1,0,0,1,28.367-15.4,166.186,166.186,0,0,1,31.348-9.731A168.257,168.257,0,0,1,2619-723a168.274,168.274,0,0,1,33.656,3.393A166.186,166.186,0,0,1,2684-709.877a167.014,167.014,0,0,1,28.367,15.4A168.246,168.246,0,0,1,2733.041-678Z" transform="translate(-1931 791)" fill="#ffcb74"/>
+    <text id="S" transform="translate(871 262)" fill="#2c0f2b" font-size="200" font-family="Poppins-Regular, Poppins"><tspan x="0" y="0">S</tspan></text>
+    <text id="E" transform="translate(393 262)" fill="#2c0f2b" font-size="200" font-family="Poppins-Regular, Poppins"><tspan x="0" y="0">E</tspan></text>
+  </g>
+</svg>
