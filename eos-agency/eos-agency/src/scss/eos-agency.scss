@@ -1,0 +1,31 @@
+/* Eos digital agency individual css file */
+.float {
+    position: relative;
+    display: flex;
+    bottom: 140px;
+    justify-content: center;
+}
+
+#processSection {
+    display: flex;
+    justify-content: center;
+    position: relative;
+    bottom: 100px;
+}
+
+#serviceSection {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    background-color: #2c1c2b;
+    padding: 52px 0 54px 55px;
+    :nth-child(1) {
+        margin-right: 30px;
+    }
+    :nth-child(2) {
+        margin-right: 30px;
+    }
+    :nth-child(3) {
+        margin-right: 30px;
+    }
+}
