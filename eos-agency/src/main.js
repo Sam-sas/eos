@@ -2,6 +2,7 @@ import Vue from 'vue';
 import upperFirst from 'lodash/upperFirst';
 import camelCase from 'lodash/camelCase';
 import { BootstrapVue } from 'bootstrap-vue';
+
 import App from './App.vue';
 import store from './store';
 
@@ -11,7 +12,7 @@ Vue.config.productionTip = false;
 Vue.use(BootstrapVue);
 
 const requireComponent = require.context(
-  './components',
+  '../../agency-template-components',
   false,
   /Base[A-Z]\w+\.(vue|js)$/,
 );
